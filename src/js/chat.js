@@ -51,3 +51,5 @@ class Chatroom {
     }
   }
 }
+
+export default Chatroom;

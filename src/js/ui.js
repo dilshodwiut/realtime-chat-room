@@ -21,3 +21,5 @@ class ChatUI {
     this.list.innerHTML = "";
   }
 }
+
+export default ChatUI;

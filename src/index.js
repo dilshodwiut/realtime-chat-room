@@ -1,3 +1,7 @@
+import "./index.css";
+import Chatroom from "./js/chat";
+import ChatUI from "./js/ui";
+
 // dom queries
 const chatList = document.querySelector(".chat-list");
 const newChatForm = document.querySelector(".new-chat");
