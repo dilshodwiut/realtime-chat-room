@@ -39,6 +39,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "@babel/runtime": "^7.15.3"
+    "@babel/runtime": "^7.15.3",
+    "moment": "^2.29.1"
   }
 }
